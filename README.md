@@ -1,6 +1,6 @@
 <div align="center">
 
-![历史上的今天](https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4)
+![历史上的今天](https://pink-keen-python-404.mypinata.cloud/ipfs/bafkreifnpxdvcusz54h52gz3zqrtftsnm4ec3ybvdoeffikxnrunj3j3bq)
 
 # 📅 历史上的今天
 
