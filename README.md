@@ -14,20 +14,4 @@
 
 ## 📅 今日历史
 
-<!-- 此处将由 GitHub Actions 自动更新 -->
-
-## 🛠️ 技术实现
-
-- Python 脚本自动获取和更新数据
-- GitHub Actions 定时任务
-- Markdown 动态渲染
-
-## 📝 许可证
-
-[MIT License](LICENSE)
-
----
-
-<div align="center">
-⭐ 如果觉得有帮助，欢迎 Star 支持！
-</div>
+<!-- 此处将由 GitHub Actions 自动更新 --> 
