@@ -20,7 +20,7 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-13 10:32:11
+> 更新时间：2024-12-13 16:22:26
 
 - 1995年：Banat Air Flight 166 crashes in Sommacampagna near Verona Villafranca Airport in Verona, Italy, killing 49.
 - 2001年：Sansad Bhavan, the building housing the Indian Parliament, is attacked by terrorists. Twelve people are killed, including the terrorists.
