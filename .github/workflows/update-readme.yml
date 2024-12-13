@@ -22,7 +22,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
-        cache: 'pip'      # 添加缓存提高性能
         
     - name: 安装依赖
       run: |
@@ -37,9 +36,9 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git stash                # 暂存当前更改
-        git pull origin main     # 拉取最新代码
-        git stash pop            # 恢复暂存的更改
+        git stash
+        git pull origin main
+        git stash pop
         git add README.md
         git commit -m "📅 更新历史上的今天" || exit 0
         git push origin main
