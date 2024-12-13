@@ -16,11 +16,13 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0    # 获取完整的历史记录
+        ref: main         # 明确指定分支
       
     - name: 设置 Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
+        cache: 'pip'      # 添加缓存提高性能
         
     - name: 安装依赖
       run: |
@@ -35,7 +37,9 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git pull origin main --rebase    # 添加这行，先拉取最新代码
+        git stash                # 暂存当前更改
+        git pull origin main     # 拉取最新代码
+        git stash pop            # 恢复暂存的更改
         git add README.md
         git commit -m "📅 更新历史上的今天" || exit 0
         git push origin main
