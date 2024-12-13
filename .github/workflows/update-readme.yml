@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: 检出代码
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0    # 获取完整的历史记录
       
     - name: 设置 Python
       uses: actions/setup-python@v5
@@ -33,6 +35,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main --rebase    # 添加这行，先拉取最新代码
         git add README.md
         git commit -m "📅 更新历史上的今天" || exit 0
-        git push
+        git push origin main

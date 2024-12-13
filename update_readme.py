@@ -6,11 +6,11 @@ import sys
 def get_today_in_history():
     try:
         url = "https://history.muffinlabs.com/date"
-        response = requests.get(url, timeout=10)  # 添加超时设置
-        response.raise_for_status()  # 检查响应状态
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
         data = response.json()
         
-        events = data['data']['Events'][-5:]
+        events = data['data']['Events'][-5:]  # 获取最近5条历史事件
         formatted_events = []
         for event in events:
             formatted_events.append(f"- {event['year']}年：{event['text']}")
@@ -22,29 +22,43 @@ def get_today_in_history():
 
 def update_readme():
     try:
+        # 读取 README.md 文件
         with open('README.md', 'r', encoding='utf-8') as file:
-            content = file.readlines()
+            content = file.read()
         
+        # 获取历史事件
         events = get_today_in_history()
         
-        new_content = []
-        found_section = False
-        for line in content:
-            new_content.append(line)
-            if '## 📅 历史上的今天' in line:
-                found_section = True
-                new_content.append('\n')
-                new_content.append(f'> 更新时间：{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n\n')
-                for event in events:
-                    new_content.append(f'{event}\n')
-                break
+        # 准备新的内容
+        update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        new_content = f"\n> 更新时间：{update_time}\n\n"
+        for event in events:
+            new_content += f"{event}\n"
+            
+        # 在标记之间更新内容
+        start_marker = "## 📖 今日历史"
+        end_marker = "## 🛠️ 技术实现"
         
-        if not found_section:
+        # 查找开始和结束位置
+        start_pos = content.find(start_marker)
+        end_pos = content.find(end_marker)
+        
+        if start_pos == -1 or end_pos == -1:
             print("未找到更新区域标记")
             sys.exit(1)
             
+        # 组合新的 README 内容
+        new_readme = (
+            content[:start_pos] +
+            start_marker +
+            new_content +
+            "\n" +
+            content[end_pos:]
+        )
+            
+        # 写入更新后的内容
         with open('README.md', 'w', encoding='utf-8') as file:
-            file.writelines(new_content)
+            file.write(new_readme)
             
     except Exception as e:
         print(f"更新 README 时出错: {str(e)}")
