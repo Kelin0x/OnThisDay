@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-14 16:20:22
+> 更新时间：2024-12-15 15:13:46 (北京时间)
 
-- 2004年：The Millau Viaduct, the tallest bridge in the world, is formally inaugurated near Millau, France.
-- 2012年：Sandy Hook Elementary School shooting: Twenty-eight people, including the gunman, are killed in Sandy Hook, Connecticut.
-- 2013年：A reported coup attempt in South Sudan leads to continued fighting and hundreds of casualties.
-- 2017年：The Walt Disney Company announces that it would acquire 21st Century Fox, including the 20th Century Fox movie studio, for $52.4 billion.
-- 2020年：A total solar eclipse is visible from parts of the South Pacific Ocean, southern South America, and the South Atlantic Ocean.
+- 2005年：Introduction of the Lockheed Martin F-22 Raptor into USAF active service.
+- 2010年：A boat carrying 90 asylum seekers crashes into rocks off the coast of Christmas Island, Australia, killing 48 people.
+- 2013年：The South Sudanese Civil War begins when opposition leaders Dr. Riek Machar, Pagan Amum and Rebecca Nyandeng vote to boycott the meeting of the National Liberation Council at Nyakuron.
+- 2014年：Gunman Man Haron Monis takes 18 hostages inside a café in Martin Place for 16 hours in Sydney. Monis and two hostages are killed when police raid the café the following morning.
+- 2017年：A 6.5Mw earthquake strikes the Indonesian island of Java in the city of Tasikmalaya, resulting in four deaths.
 
 ## 🛠️ 技术实现
 
