@@ -9,14 +9,15 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:          
-      contents: write     # 允许写入仓库内容
+      contents: write     
     
     steps:
     - name: 检出代码
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0    # 获取完整的历史记录
-        ref: main         # 明确指定分支
+        fetch-depth: 0    
+        ref: main
+        token: ${{ secrets.PERSONAL_TOKEN }}  # 使用您的 PAT
       
     - name: 设置 Python
       uses: actions/setup-python@v5
@@ -34,8 +35,8 @@ jobs:
       
     - name: 提交更改
       run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "${{ github.repository_owner }}"        # 使用您的 GitHub 用户名
+        git config --local user.email "${{ github.repository_owner }}@users.noreply.github.com"   # 使用您的 GitHub 邮箱
         git stash
         git pull origin main
         git stash pop

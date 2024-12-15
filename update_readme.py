@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 import json
 import sys
+import pytz  # 添加时区支持
 
 def get_today_in_history():
     try:
@@ -29,9 +30,13 @@ def update_readme():
         # 获取历史事件
         events = get_today_in_history()
         
+        # 获取北京时间
+        beijing_tz = pytz.timezone('Asia/Shanghai')
+        beijing_time = datetime.now(beijing_tz)
+        update_time = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
+        
         # 准备新的内容
-        update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        new_content = f"\n> 更新时间：{update_time}\n\n"
+        new_content = f"\n> 更新时间：{update_time} (北京时间)\n\n"
         for event in events:
             new_content += f"{event}\n"
             
