@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-16 00:20:13 (北京时间)
+> 更新时间：2024-12-17 00:23:44 (北京时间)
 
-- 2005年：Introduction of the Lockheed Martin F-22 Raptor into USAF active service.
-- 2010年：A boat carrying 90 asylum seekers crashes into rocks off the coast of Christmas Island, Australia, killing 48 people.
-- 2013年：The South Sudanese Civil War begins when opposition leaders Dr. Riek Machar, Pagan Amum and Rebecca Nyandeng vote to boycott the meeting of the National Liberation Council at Nyakuron.
-- 2014年：Gunman Man Haron Monis takes 18 hostages inside a café in Martin Place for 16 hours in Sydney. Monis and two hostages are killed when police raid the café the following morning.
-- 2017年：A 6.5Mw earthquake strikes the Indonesian island of Java in the city of Tasikmalaya, resulting in four deaths.
+- 1989年：Romanian Revolution: Protests break out in Timișoara, Romania, in response to an attempt by the government to evict dissident Hungarian pastor László Tőkés.
+- 2011年：Zhanaozen massacre: Violent protests by oil workers take place in Zhanaozen, Kazakhstan, leading to 16 people dead and 100 injured by the security forces.
+- 2013年：A bus falls from an elevated highway in the Philippines capital Manila killing at least 18 people with 20 injured.
+- 2014年：Tehrik-i-Taliban Pakistan militants attack an Army Public School in Peshawar, Pakistan, killing 150 people, 132 of them schoolchildren.
+- 2022年：A landslide occurs at a camp at an organic farm near the town of Batang Kali in Selangor, Malaysia, trapping 92 people and killing 31.
 
 ## 🛠️ 技术实现
 
