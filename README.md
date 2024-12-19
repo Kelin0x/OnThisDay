@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-19 00:22:12 (北京时间)
+> 更新时间：2024-12-20 00:19:54 (北京时间)
 
-- 2015年：Kellingley Colliery, the last deep coal mine in Great Britain, closes.
-- 2017年：Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
-- 2018年：List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
-- 2019年：The United States House of Representatives impeaches Donald Trump for the first time.
-- 2022年：Argentina win the 2022 FIFA World Cup final, defeating title holders France 4-2 on penalties following a 3-3 draw after extra time.
+- 2005年：Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
+- 2012年：Park Geun-hye is elected the first female president of South Korea.
+- 2013年：Spacecraft Gaia is launched by the European Space Agency.
+- 2016年：Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
+- 2016年：A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
 
 ## 🛠️ 技术实现
 
