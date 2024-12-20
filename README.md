@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-20 00:19:54 (北京时间)
+> 更新时间：2024-12-21 00:20:19 (北京时间)
 
-- 2005年：Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
-- 2012年：Park Geun-hye is elected the first female president of South Korea.
-- 2013年：Spacecraft Gaia is launched by the European Space Agency.
-- 2016年：Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
-- 2016年：A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
+- 1999年：Macau is handed over to China by Portugal.
+- 2004年：A gang of thieves steal £26.5 million worth of currency from the Donegall Square West headquarters of Northern Bank in Belfast, Northern Ireland, United Kingdom, one of the largest bank robberies in British history.
+- 2007年：Elizabeth II becomes the oldest monarch in the history of the United Kingdom, surpassing Queen Victoria, who lived for 81 years and 243 days.
+- 2007年：The Portrait of Suzanne Bloch (1904), by the Spanish artist Pablo Picasso, and O Lavrador de Café by Brazilian modernist painter Cândido Portinari, are stolen from the São Paulo Museum of Art in Brazil. Both will be recovered a few weeks later.
+- 2019年：The United States Space Force becomes the first new branch of the United States Armed Forces since 1947.
 
 ## 🛠️ 技术实现
 
