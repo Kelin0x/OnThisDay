@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-21 00:20:19 (北京时间)
+> 更新时间：2024-12-22 00:18:53 (北京时间)
 
-- 1999年：Macau is handed over to China by Portugal.
-- 2004年：A gang of thieves steal £26.5 million worth of currency from the Donegall Square West headquarters of Northern Bank in Belfast, Northern Ireland, United Kingdom, one of the largest bank robberies in British history.
-- 2007年：Elizabeth II becomes the oldest monarch in the history of the United Kingdom, surpassing Queen Victoria, who lived for 81 years and 243 days.
-- 2007年：The Portrait of Suzanne Bloch (1904), by the Spanish artist Pablo Picasso, and O Lavrador de Café by Brazilian modernist painter Cândido Portinari, are stolen from the São Paulo Museum of Art in Brazil. Both will be recovered a few weeks later.
-- 2019年：The United States Space Force becomes the first new branch of the United States Armed Forces since 1947.
+- 1999年：Cubana de Aviación Flight 1216 overshoots the runway at La Aurora International Airport, killing 18.
+- 2004年：Iraq War: A suicide bomber kills 22 at the forward operating base next to the main U.S. military airfield at Mosul, Iraq, the single deadliest suicide attack on American soldiers.
+- 2012年：2012 phenomenon: Festivities are held in parts of Mesoamerica to commemorate the conclusion of b’ak’tun 13, a roughly 5,126-year-long cycle in the Mesoamerican Long Count Calendar whose passing many New Age spiritualists had earlier held to portend a variety of cataclysmic or transformative events.
+- 2020年：A great conjunction of Jupiter and Saturn occurs, with the two planets separated in the sky by 0.1 degrees. This is the closest conjunction between the two planets since 1623.
+- 2023年：14 people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father before the shooting.
 
 ## 🛠️ 技术实现
 
