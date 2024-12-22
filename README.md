@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-22 00:18:53 (北京时间)
+> 更新时间：2024-12-23 00:18:36 (北京时间)
 
-- 1999年：Cubana de Aviación Flight 1216 overshoots the runway at La Aurora International Airport, killing 18.
-- 2004年：Iraq War: A suicide bomber kills 22 at the forward operating base next to the main U.S. military airfield at Mosul, Iraq, the single deadliest suicide attack on American soldiers.
-- 2012年：2012 phenomenon: Festivities are held in parts of Mesoamerica to commemorate the conclusion of b’ak’tun 13, a roughly 5,126-year-long cycle in the Mesoamerican Long Count Calendar whose passing many New Age spiritualists had earlier held to portend a variety of cataclysmic or transformative events.
-- 2020年：A great conjunction of Jupiter and Saturn occurs, with the two planets separated in the sky by 0.1 degrees. This is the closest conjunction between the two planets since 1623.
-- 2023年：14 people are killed and 25 others injured during a mass shooting at Charles University in Prague, Czech Republic. The perpetrator, a student at the university, kills himself after police arrived; he also killed his father before the shooting.
+- 2016年：A study finds the VSV-EBOV vaccine against the Ebola virus between 70 and 100% effective, thus making it the first proven vaccine against the disease.
+- 2017年：United Nations Security Council Resolution 2397 against North Korea is unanimously approved.
+- 2017年：President Donald Trump signs the Tax Cuts and Jobs Act of 2017.
+- 2018年：A tsunami caused by an eruption of Anak Krakatau in Indonesia kills at least 430 people and injures almost a thousand more.
+- 2018年：The 2018-2019 United States federal government shutdown, the longest shutdown of the U.S. federal government in history, begins.
 
 ## 🛠️ 技术实现
 
