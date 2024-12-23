@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-23 00:18:36 (北京时间)
+> 更新时间：2024-12-24 00:20:21 (北京时间)
 
-- 2016年：A study finds the VSV-EBOV vaccine against the Ebola virus between 70 and 100% effective, thus making it the first proven vaccine against the disease.
-- 2017年：United Nations Security Council Resolution 2397 against North Korea is unanimously approved.
-- 2017年：President Donald Trump signs the Tax Cuts and Jobs Act of 2017.
-- 2018年：A tsunami caused by an eruption of Anak Krakatau in Indonesia kills at least 430 people and injures almost a thousand more.
-- 2018年：The 2018-2019 United States federal government shutdown, the longest shutdown of the U.S. federal government in history, begins.
+- 2003年：An explosion at the PetroChina Chuandongbei natural gas field in Kai County, Chongqing, China, kills at least 234.
+- 2005年：An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.
+- 2007年：An agreement is made for the Kingdom of Nepal to be abolished and the country to become a federal republic with the Prime Minister becoming head of state.
+- 2008年：A coup d'état occurs in Guinea hours after the death of President Lansana Conté.
+- 2015年：A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.
 
 ## 🛠️ 技术实现
 
