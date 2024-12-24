@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-24 00:20:21 (北京时间)
+> 更新时间：2024-12-25 00:19:48 (北京时间)
 
-- 2003年：An explosion at the PetroChina Chuandongbei natural gas field in Kai County, Chongqing, China, kills at least 234.
-- 2005年：An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.
-- 2007年：An agreement is made for the Kingdom of Nepal to be abolished and the country to become a federal republic with the Prime Minister becoming head of state.
-- 2008年：A coup d'état occurs in Guinea hours after the death of President Lansana Conté.
-- 2015年：A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.
+- 2003年：The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
+- 2005年：Chad-Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
+- 2008年：The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
+- 2018年：A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
+- 2021年：Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
 
 ## 🛠️ 技术实现
 
