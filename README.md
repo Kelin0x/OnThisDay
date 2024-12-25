@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-25 00:19:48 (北京时间)
+> 更新时间：2024-12-26 00:19:40 (北京时间)
 
-- 2003年：The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
-- 2005年：Chad-Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
-- 2008年：The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
-- 2018年：A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
-- 2021年：Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
+- 2012年：Air Bagan Flight 011, a Fokker 100, crashes on approach to Heho Airport in Heho, Myanmar, killing two people.
+- 2016年：A Russian Defence Ministry Tupolev Tu-154 carrying members of the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff, killing all 92 people on board.
+- 2019年：Twenty people are killed and thousands are left homeless by Typhoon Phanfone in the Philippines.
+- 2020年：An explosion in Nashville, Tennessee, occurs, leaving three civilians in the hospital.
+- 2021年：The James Webb Space Telescope is launched.
 
 ## 🛠️ 技术实现
 
