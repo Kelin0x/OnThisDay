@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-26 00:19:40 (北京时间)
+> 更新时间：2024-12-27 00:20:12 (北京时间)
 
-- 2012年：Air Bagan Flight 011, a Fokker 100, crashes on approach to Heho Airport in Heho, Myanmar, killing two people.
-- 2016年：A Russian Defence Ministry Tupolev Tu-154 carrying members of the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff, killing all 92 people on board.
-- 2019年：Twenty people are killed and thousands are left homeless by Typhoon Phanfone in the Philippines.
-- 2020年：An explosion in Nashville, Tennessee, occurs, leaving three civilians in the hospital.
-- 2021年：The James Webb Space Telescope is launched.
+- 2004年：Orange Revolution: The final run-off election in Ukraine is held under heavy international scrutiny.
+- 2006年：Two earthquakes in Hengchun, Taiwan measuring 7.0 and 6.9 on the moment magnitude scale kill two and disrupt telecommunications across Asia.
+- 2012年：China opens the world's longest high-speed rail route, which links Beijing and Guangzhou.
+- 2015年：A violent EF-4 tornado hits Garland, Texas, killing nine and injuring almost 500 others.
+- 2021年：Three people are killed when a 13-year-old opens fire on civilians at a Texaco convenience store in Garland, Texas.
 
 ## 🛠️ 技术实现
 
