@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-27 00:20:12 (北京时间)
+> 更新时间：2024-12-28 00:19:50 (北京时间)
 
-- 2004年：Orange Revolution: The final run-off election in Ukraine is held under heavy international scrutiny.
-- 2006年：Two earthquakes in Hengchun, Taiwan measuring 7.0 and 6.9 on the moment magnitude scale kill two and disrupt telecommunications across Asia.
-- 2012年：China opens the world's longest high-speed rail route, which links Beijing and Guangzhou.
-- 2015年：A violent EF-4 tornado hits Garland, Texas, killing nine and injuring almost 500 others.
-- 2021年：Three people are killed when a 13-year-old opens fire on civilians at a Texaco convenience store in Garland, Texas.
+- 2007年：Former Pakistani prime minister Benazir Bhutto is assassinated in a shooting incident.
+- 2007年：Riots erupt in Mombasa, Kenya, after Mwai Kibaki is declared the winner of the presidential election, triggering a political, economic, and humanitarian crisis.
+- 2008年：Operation Cast Lead: Israel launches three-week operation on Gaza.
+- 2009年：Iranian election protests: On the Day of Ashura in Tehran, Iran, government security forces fire upon demonstrators.
+- 2019年：Bek Air Flight 2100 crashes during takeoff from Almaty International Airport in Almaty, Kazakhstan, killing 13.
 
 ## 🛠️ 技术实现
 
