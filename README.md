@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-28 00:19:50 (北京时间)
+> 更新时间：2024-12-29 00:18:57 (北京时间)
 
-- 2007年：Former Pakistani prime minister Benazir Bhutto is assassinated in a shooting incident.
-- 2007年：Riots erupt in Mombasa, Kenya, after Mwai Kibaki is declared the winner of the presidential election, triggering a political, economic, and humanitarian crisis.
-- 2008年：Operation Cast Lead: Israel launches three-week operation on Gaza.
-- 2009年：Iranian election protests: On the Day of Ashura in Tehran, Iran, government security forces fire upon demonstrators.
-- 2019年：Bek Air Flight 2100 crashes during takeoff from Almaty International Airport in Almaty, Kazakhstan, killing 13.
+- 1989年：A magnitude 5.6 earthquake hits Newcastle, New South Wales, Australia, killing 13 people.
+- 2006年：War in Somalia: The militaries of Somalia's Transitional Federal Government and Ethiopian troops capture Mogadishu unopposed.
+- 2009年：Forty-three people die in a suicide bombing in Karachi, Pakistan, where Shia Muslims are observing the Day of Ashura.
+- 2014年：Indonesia AirAsia Flight 8501 crashes into the Karimata Strait en route from Surabaya to Singapore, killing all 162 people aboard.
+- 2014年：Nine people die and another 19 are reported missing, when the MS Norman Atlantic catches fire in the Strait of Otranto, in the Adriatic Sea, in Italian waters.
 
 ## 🛠️ 技术实现
 
