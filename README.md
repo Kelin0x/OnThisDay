@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-29 00:18:57 (北京时间)
+> 更新时间：2024-12-30 00:18:32 (北京时间)
 
-- 1989年：A magnitude 5.6 earthquake hits Newcastle, New South Wales, Australia, killing 13 people.
-- 2006年：War in Somalia: The militaries of Somalia's Transitional Federal Government and Ethiopian troops capture Mogadishu unopposed.
-- 2009年：Forty-three people die in a suicide bombing in Karachi, Pakistan, where Shia Muslims are observing the Day of Ashura.
-- 2014年：Indonesia AirAsia Flight 8501 crashes into the Karimata Strait en route from Surabaya to Singapore, killing all 162 people aboard.
-- 2014年：Nine people die and another 19 are reported missing, when the MS Norman Atlantic catches fire in the Strait of Otranto, in the Adriatic Sea, in Italian waters.
+- 2012年：A Tupolev Tu-204 airliner crashes in a ditch between the airport fence and the M3 highway after overshooting a runway at Vnukovo International Airport in Moscow, Russia, killing five people and leaving three others critically injured.
+- 2013年：A suicide bomb attack at the Volgograd-1 railway station in the southern Russian city of Volgograd kills at least 18 people and wounds 40 others.
+- 2013年：Seven-time Formula One champion Michael Schumacher suffers a massive head injury while skiing in the French Alps.
+- 2020年：A large explosion at the airport in the southern Yemeni city of Aden kills at least 22 people and wounds 50.
+- 2020年：A magnitude 6.4 earthquake hits near the town of Petrinja in Sisak-Moslavina County, Croatia, killing seven people.
 
 ## 🛠️ 技术实现
 
