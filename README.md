@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-30 00:18:32 (北京时间)
+> 更新时间：2024-12-31 00:20:27 (北京时间)
 
-- 2012年：A Tupolev Tu-204 airliner crashes in a ditch between the airport fence and the M3 highway after overshooting a runway at Vnukovo International Airport in Moscow, Russia, killing five people and leaving three others critically injured.
-- 2013年：A suicide bomb attack at the Volgograd-1 railway station in the southern Russian city of Volgograd kills at least 18 people and wounds 40 others.
-- 2013年：Seven-time Formula One champion Michael Schumacher suffers a massive head injury while skiing in the French Alps.
-- 2020年：A large explosion at the airport in the southern Yemeni city of Aden kills at least 22 people and wounds 50.
-- 2020年：A magnitude 6.4 earthquake hits near the town of Petrinja in Sisak-Moslavina County, Croatia, killing seven people.
+- 2006年：The Indonesian passenger ferry MV Senopati Nusantara sinks in a storm, resulting in at least 400 deaths.
+- 2006年：Former President of Iraq Saddam Hussein is executed.
+- 2009年：A segment of the Lanzhou-Zhengzhou-Changsha pipeline ruptures in Shaanxi, China, and approximately 150,000 L (40,000 US gal) of diesel oil flows down the Wei River before finally reaching the Yellow River.
+- 2009年：A suicide bomber kills nine people at Forward Operating Base Chapman, a key facility of the Central Intelligence Agency in Afghanistan.
+- 2013年：More than 100 people are killed when anti-government forces attack key buildings in Kinshasa, Democratic Republic of the Congo.
 
 ## 🛠️ 技术实现
 
