@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2024-12-31 00:20:27 (北京时间)
+> 更新时间：2025-01-01 00:19:39 (北京时间)
 
-- 2006年：The Indonesian passenger ferry MV Senopati Nusantara sinks in a storm, resulting in at least 400 deaths.
-- 2006年：Former President of Iraq Saddam Hussein is executed.
-- 2009年：A segment of the Lanzhou-Zhengzhou-Changsha pipeline ruptures in Shaanxi, China, and approximately 150,000 L (40,000 US gal) of diesel oil flows down the Wei River before finally reaching the Yellow River.
-- 2009年：A suicide bomber kills nine people at Forward Operating Base Chapman, a key facility of the Central Intelligence Agency in Afghanistan.
-- 2013年：More than 100 people are killed when anti-government forces attack key buildings in Kinshasa, Democratic Republic of the Congo.
+- 2014年：A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others.
+- 2015年：A fire breaks out at the Downtown Address Hotel in Downtown Dubai, United Arab Emirates, located near the Burj Khalifa, two hours before the fireworks display is due to commence. Sixteen injuries were reported; one had a heart attack, another suffered a major injury, and fourteen others with minor injuries.
+- 2018年：Thirty-nine people are killed after a ten-story building collapses in the industrial city of Magnitogorsk, Russia.
+- 2019年：The World Health Organization is informed of cases of pneumonia with an unknown cause, detected in Wuhan. This later turned out to be COVID-19, the cause of the COVID-19 pandemic.
+- 2020年：The World Health Organization issues its first emergency use validation for a COVID-19 vaccine.
 
 ## 🛠️ 技术实现
 
