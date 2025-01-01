@@ -20,13 +20,16 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-01 00:19:39 (北京时间)
+> 更新时间：2025-01-02 00:19:56 (北京时间)
 
-- 2014年：A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others.
-- 2015年：A fire breaks out at the Downtown Address Hotel in Downtown Dubai, United Arab Emirates, located near the Burj Khalifa, two hours before the fireworks display is due to commence. Sixteen injuries were reported; one had a heart attack, another suffered a major injury, and fourteen others with minor injuries.
-- 2018年：Thirty-nine people are killed after a ten-story building collapses in the industrial city of Magnitogorsk, Russia.
-- 2019年：The World Health Organization is informed of cases of pneumonia with an unknown cause, detected in Wuhan. This later turned out to be COVID-19, the cause of the COVID-19 pandemic.
-- 2020年：The World Health Organization issues its first emergency use validation for a COVID-19 vaccine.
+- 2023年：Croatia officially adopts the Euro, becoming the 20th Eurozone country, and becomes the 27th member of the Schengen Area.
+- 2024
+A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.[112]
+Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.[113]
+Artsakh ceases to exist.[114]年：None
+- A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.年：None
+- Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.年：None
+- Artsakh ceases to exist.年：None
 
 ## 🛠️ 技术实现
 
