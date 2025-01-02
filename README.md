@@ -20,16 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-02 00:19:56 (北京时间)
+> 更新时间：2025-01-03 00:20:41 (北京时间)
 
-- 2023年：Croatia officially adopts the Euro, becoming the 20th Eurozone country, and becomes the 27th member of the Schengen Area.
-- 2024
-A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.[112]
-Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.[113]
-Artsakh ceases to exist.[114]年：None
-- A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.年：None
-- Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.年：None
-- Artsakh ceases to exist.年：None
+- 1993年：Sri Lankan Civil War: The Sri Lanka Navy kill 35-100 civilians on the Jaffna Lagoon.
+- 2004年：Stardust successfully flies past Comet Wild 2, collecting samples that are returned to Earth.
+- 2019年：Adventist Health System and its subsidiaries rebranded to AdventHealth.
+- 2022年：Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.
+- 2024年：Two aircraft collide on a runway at Haneda Airport in Tokyo, killing 5 and injuring 15.
 
 ## 🛠️ 技术实现
 
