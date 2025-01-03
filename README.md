@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-03 00:20:41 (北京时间)
+> 更新时间：2025-01-04 00:20:36 (北京时间)
 
-- 1993年：Sri Lankan Civil War: The Sri Lanka Navy kill 35-100 civilians on the Jaffna Lagoon.
-- 2004年：Stardust successfully flies past Comet Wild 2, collecting samples that are returned to Earth.
-- 2019年：Adventist Health System and its subsidiaries rebranded to AdventHealth.
-- 2022年：Massive nationwide protests and unrest break out in Kazakhstan over the sudden increase of liquefied petroleum gas prices, leaving over 200 people dead and thousands injured.
-- 2024年：Two aircraft collide on a runway at Haneda Airport in Tokyo, killing 5 and injuring 15.
+- 2018年：For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.
+- 2019年：Chang'e 4 makes the first soft landing on the far side of the Moon, deploying the Yutu-2 lunar rover.
+- 2020年：Iranian General Qasem Soleimani is killed by an American airstrike near Baghdad International Airport, igniting global concerns of a potential armed conflict.
+- 2023年：Singapore's Jurong Bird Park permanently closes.
+- 2024年：At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani 4 years ago.
 
 ## 🛠️ 技术实现
 
