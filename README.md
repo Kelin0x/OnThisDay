@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-04 00:20:36 (北京时间)
+> 更新时间：2025-01-05 19:07:37 (北京时间)
 
-- 2018年：For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.
-- 2019年：Chang'e 4 makes the first soft landing on the far side of the Moon, deploying the Yutu-2 lunar rover.
-- 2020年：Iranian General Qasem Soleimani is killed by an American airstrike near Baghdad International Airport, igniting global concerns of a potential armed conflict.
-- 2023年：Singapore's Jurong Bird Park permanently closes.
-- 2024年：At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani 4 years ago.
+- 1991年：Somali Civil War: The United States Embassy to Somalia in Mogadishu is evacuated by helicopter airlift days after the outbreak of violence in Mogadishu.
+- 1993年：The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
+- 2005年：The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
+- 2014年：A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
+- 2022年：Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
 
 ## 🛠️ 技术实现
 
