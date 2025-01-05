@@ -20,7 +20,7 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-05 19:07:37 (北京时间)
+> 更新时间：2025-01-06 00:18:39 (北京时间)
 
 - 1991年：Somali Civil War: The United States Embassy to Somalia in Mogadishu is evacuated by helicopter airlift days after the outbreak of violence in Mogadishu.
 - 1993年：The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
