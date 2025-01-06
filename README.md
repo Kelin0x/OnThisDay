@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-06 00:18:39 (北京时间)
+> 更新时间：2025-01-07 00:21:02 (北京时间)
 
-- 1991年：Somali Civil War: The United States Embassy to Somalia in Mogadishu is evacuated by helicopter airlift days after the outbreak of violence in Mogadishu.
-- 1993年：The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
-- 2005年：The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
-- 2014年：A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
-- 2022年：Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
+- 2012年：Twenty-six people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus.
+- 2017年：Five people are killed and six others injured in a mass shooting at Fort Lauderdale-Hollywood International Airport in Broward County, Florida.
+- 2019年：Forty people are killed in a gold mine collapse in Badakhshan province, in northern Afghanistan.
+- 2019年：Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
+- 2021年：Supporters of U.S. President Donald Trump attack the United States Capitol to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.
 
 ## 🛠️ 技术实现
 
