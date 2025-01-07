@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-07 00:21:02 (北京时间)
+> 更新时间：2025-01-08 00:34:00 (北京时间)
 
-- 2012年：Twenty-six people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus.
-- 2017年：Five people are killed and six others injured in a mass shooting at Fort Lauderdale-Hollywood International Airport in Broward County, Florida.
-- 2019年：Forty people are killed in a gold mine collapse in Badakhshan province, in northern Afghanistan.
-- 2019年：Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
-- 2021年：Supporters of U.S. President Donald Trump attack the United States Capitol to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.
+- 2015年：Two gunmen commit mass murder at the offices of Charlie Hebdo in Paris, shooting twelve people execution style, and wounding eleven others.
+- 2015年：A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 63 injured.
+- 2020年：The 6.4Mw  2019-20 Puerto Rico earthquakes kill four and injure nine in southern Puerto Rico.
+- 2021年：The United States Congress certifies the results of 2020 United States presidential election, confirming the election of Joe Biden, on the morning of the 7th after the Capitol was attacked the day before during earlier attempts to certify the election by supporters of the incumbent president Donald Trump, who lost re-election to Biden and attempted to overturn the results of the election.
+- 2023年：The longest U.S. House of Representatives speaker election since the December 1859 - February 1860 U.S. speaker election concludes and Kevin McCarthy is elected 55th Speaker of the United States House of Representatives.
 
 ## 🛠️ 技术实现
 
