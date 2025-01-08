@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-08 00:34:00 (北京时间)
+> 更新时间：2025-01-09 00:20:53 (北京时间)
 
-- 2015年：Two gunmen commit mass murder at the offices of Charlie Hebdo in Paris, shooting twelve people execution style, and wounding eleven others.
-- 2015年：A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 63 injured.
-- 2020年：The 6.4Mw  2019-20 Puerto Rico earthquakes kill four and injure nine in southern Puerto Rico.
-- 2021年：The United States Congress certifies the results of 2020 United States presidential election, confirming the election of Joe Biden, on the morning of the 7th after the Capitol was attacked the day before during earlier attempts to certify the election by supporters of the incumbent president Donald Trump, who lost re-election to Biden and attempted to overturn the results of the election.
-- 2023年：The longest U.S. House of Representatives speaker election since the December 1859 - February 1860 U.S. speaker election concludes and Kevin McCarthy is elected 55th Speaker of the United States House of Representatives.
+- 2016年：Joaquín Guzmán, widely regarded as the world's most powerful drug trafficker, is recaptured following his escape from a maximum security prison in Mexico.
+- 2016年：West Air Sweden Flight 294 crashes near the Swedish reservoir of Akkajaure; both pilots, the only people on board, are killed.
+- 2020年：Ukraine International Airlines Flight 752 crashes immediately after takeoff at Tehran Imam Khomeini International Airport; all 176 on board are killed. The plane was shot down by an Iranian anti-aircraft missile.
+- 2021年：Twenty-three people are killed in what is described as a police ″massacre″ in La Vega, Caracas, Venezuela.
+- 2023年：Supporters of former Brazil president Jair Bolsonaro storm the Brazilian Congress.
 
 ## 🛠️ 技术实现
 
