@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-09 00:20:53 (北京时间)
+> 更新时间：2025-01-10 00:21:33 (北京时间)
 
-- 2016年：Joaquín Guzmán, widely regarded as the world's most powerful drug trafficker, is recaptured following his escape from a maximum security prison in Mexico.
-- 2016年：West Air Sweden Flight 294 crashes near the Swedish reservoir of Akkajaure; both pilots, the only people on board, are killed.
-- 2020年：Ukraine International Airlines Flight 752 crashes immediately after takeoff at Tehran Imam Khomeini International Airport; all 176 on board are killed. The plane was shot down by an Iranian anti-aircraft missile.
-- 2021年：Twenty-three people are killed in what is described as a police ″massacre″ in La Vega, Caracas, Venezuela.
-- 2023年：Supporters of former Brazil president Jair Bolsonaro storm the Brazilian Congress.
+- 2011年：Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 78 people.
+- 2014年：An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.
+- 2015年：The perpetrators of the Charlie Hebdo shooting in Paris two days earlier are both killed after a hostage situation; a second hostage situation, related to the Charlie Hebdo shooting, occurs at a Jewish market in Vincennes.
+- 2015年：A mass poisoning at a funeral in Mozambique involving beer that was contaminated with Burkholderia gladioli leaves 75 dead and over 230 people ill.
+- 2021年：Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.
 
 ## 🛠️ 技术实现
 
