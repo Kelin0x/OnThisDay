@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-10 00:21:33 (北京时间)
+> 更新时间：2025-01-11 00:21:36 (北京时间)
 
-- 2011年：Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 78 people.
-- 2014年：An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.
-- 2015年：The perpetrators of the Charlie Hebdo shooting in Paris two days earlier are both killed after a hostage situation; a second hostage situation, related to the Charlie Hebdo shooting, occurs at a Jewish market in Vincennes.
-- 2015年：A mass poisoning at a funeral in Mozambique involving beer that was contaminated with Burkholderia gladioli leaves 75 dead and over 230 people ill.
-- 2021年：Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.
+- 2007年：A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
+- 2012年：A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
+- 2013年：More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
+- 2015年：A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
+- 2019年：A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
 
 ## 🛠️ 技术实现
 
