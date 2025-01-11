@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-11 00:21:36 (北京时间)
+> 更新时间：2025-01-12 00:19:28 (北京时间)
 
-- 2007年：A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
-- 2012年：A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
-- 2013年：More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
-- 2015年：A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
-- 2019年：A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
+- 1996年：Space Shuttle program: STS-72 launches from the Kennedy Space Center marking the start of the 74th Space Shuttle mission and the 10th flight of Endeavour.
+- 1998年：Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
+- 2003年：Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
+- 2013年：One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
+- 2020年：COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
 
 ## 🛠️ 技术实现
 
