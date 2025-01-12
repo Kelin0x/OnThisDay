@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-12 00:19:28 (北京时间)
+> 更新时间：2025-01-13 00:18:47 (北京时间)
 
-- 1996年：Space Shuttle program: STS-72 launches from the Kennedy Space Center marking the start of the 74th Space Shuttle mission and the 10th flight of Endeavour.
-- 1998年：Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
-- 2003年：Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
-- 2013年：One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
-- 2020年：COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
+- 2010年：An earthquake in Haiti occurs, killing between 220,000 and 300,000 people and destroying much of the capital Port-au-Prince.
+- 2012年：Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.
+- 2015年：Government raids kill 143 Boko Haram fighters in Kolofata, Cameroon.
+- 2016年：Ten people are killed and 15 wounded in a bombing near the Blue Mosque in Istanbul.
+- 2020年：Taal Volcano in the Philippines erupts and kills 39 people.
 
 ## 🛠️ 技术实现
 
