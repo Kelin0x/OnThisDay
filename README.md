@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-13 00:18:47 (北京时间)
+> 更新时间：2025-01-14 00:22:40 (北京时间)
 
-- 2010年：An earthquake in Haiti occurs, killing between 220,000 and 300,000 people and destroying much of the capital Port-au-Prince.
-- 2012年：Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.
-- 2015年：Government raids kill 143 Boko Haram fighters in Kolofata, Cameroon.
-- 2016年：Ten people are killed and 15 wounded in a bombing near the Blue Mosque in Istanbul.
-- 2020年：Taal Volcano in the Philippines erupts and kills 39 people.
+- 2001年：An earthquake hits El Salvador, killing more than 800.
+- 2012年：The passenger cruise ship Costa Concordia sinks off the coast of Italy due to the captain Francesco Schettino's negligence and irresponsibility. There are 32 confirmed deaths.
+- 2018年：A false emergency alert warning of an impending missile strike in Hawaii causes widespread panic in the state.
+- 2020年：The Thai Ministry of Public Health confirms the first case of COVID-19 outside China.
+- 2021年：Outgoing U.S. President Donald Trump is impeached for a second time on a charge of incitement of insurrection following the January 6 United States Capitol attack one week prior.
 
 ## 🛠️ 技术实现
 
