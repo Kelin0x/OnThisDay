@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-14 00:22:40 (北京时间)
+> 更新时间：2025-01-15 00:20:30 (北京时间)
 
-- 2001年：An earthquake hits El Salvador, killing more than 800.
-- 2012年：The passenger cruise ship Costa Concordia sinks off the coast of Italy due to the captain Francesco Schettino's negligence and irresponsibility. There are 32 confirmed deaths.
-- 2018年：A false emergency alert warning of an impending missile strike in Hawaii causes widespread panic in the state.
-- 2020年：The Thai Ministry of Public Health confirms the first case of COVID-19 outside China.
-- 2021年：Outgoing U.S. President Donald Trump is impeached for a second time on a charge of incitement of insurrection following the January 6 United States Capitol attack one week prior.
+- 2010年：Yemen declares an open war against the terrorist group al-Qaeda.
+- 2011年：President Zine El Abidine Ben Ali of Tunisia seeks refuge in Saudi Arabia after a series of demonstrations against his regime, considered to be the birth of the Arab Spring.
+- 2016年：Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the Police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
+- 2019年：A Saha Airlines Boeing 707 crashes at Fath Air Base near Karaj in Alborz Province, Iran, killing 15 people.
+- 2024年：Queen Margrethe II abdicates as Queen of Denmark and is succeeded by her son, Frederik X.
 
 ## 🛠️ 技术实现
 
