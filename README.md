@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-15 00:20:30 (北京时间)
+> 更新时间：2025-01-16 00:20:20 (北京时间)
 
-- 2010年：Yemen declares an open war against the terrorist group al-Qaeda.
-- 2011年：President Zine El Abidine Ben Ali of Tunisia seeks refuge in Saudi Arabia after a series of demonstrations against his regime, considered to be the birth of the Arab Spring.
-- 2016年：Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the Police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- 2019年：A Saha Airlines Boeing 707 crashes at Fath Air Base near Karaj in Alborz Province, Iran, killing 15 people.
-- 2024年：Queen Margrethe II abdicates as Queen of Denmark and is succeeded by her son, Frederik X.
+- 2019年：Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
+- 2020年：The Japanese Ministry of Health, Labour and Welfare confirms the first case of COVID-19 in Japan.
+- 2021年：A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.
+- 2022年：The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific.
+- 2023年：Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
 
 ## 🛠️ 技术实现
 
