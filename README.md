@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-16 00:20:20 (北京时间)
+> 更新时间：2025-01-17 00:20:08 (北京时间)
 
-- 2019年：Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
-- 2020年：The Japanese Ministry of Health, Labour and Welfare confirms the first case of COVID-19 in Japan.
-- 2021年：A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.
-- 2022年：The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific.
-- 2023年：Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
+- 2016年：Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
+- 2017年：Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
+- 2018年：Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
+- 2020年：The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
+- 2020年：The United States Senate ratifies the United States-Mexico-Canada Agreement as a replacement for NAFTA.
 
 ## 🛠️ 技术实现
 
