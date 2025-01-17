@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-17 00:20:08 (北京时间)
+> 更新时间：2025-01-18 00:19:42 (北京时间)
 
-- 2016年：Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
-- 2017年：Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
-- 2018年：Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
-- 2020年：The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
-- 2020年：The United States Senate ratifies the United States-Mexico-Canada Agreement as a replacement for NAFTA.
+- 2013年：Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
+- 2013年：Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
+- 2016年：President Barack Obama announces the Joint Comprehensive Plan of Action.
+- 2017年：The search for Malaysia Airlines Flight 370 is announced to be suspended.
+- 2023年：An avalanche strikes Nyingchi, Tibet, killing 28 people.
 
 ## 🛠️ 技术实现
 
