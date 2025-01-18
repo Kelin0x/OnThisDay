@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-18 00:19:42 (北京时间)
+> 更新时间：2025-01-19 00:18:06 (北京时间)
 
-- 2013年：Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
-- 2013年：Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
-- 2016年：President Barack Obama announces the Joint Comprehensive Plan of Action.
-- 2017年：The search for Malaysia Airlines Flight 370 is announced to be suspended.
-- 2023年：An avalanche strikes Nyingchi, Tibet, killing 28 people.
+- 2008年：The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art.
+- 2012年：More than 115,000 websites engage in an online protest against the Stop Online Piracy Act and the Protect IP Act in the US.[citation needed] The websites involved viewed the laws as infringing on the right to free speech and many of them temporarily shut down in protest.
+- 2018年：A bus catches fire on the Samara-Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.
+- 2019年：An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
+- 2023年：A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
 
 ## 🛠️ 技术实现
 
