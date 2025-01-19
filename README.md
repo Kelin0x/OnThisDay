@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-19 00:18:06 (北京时间)
+> 更新时间：2025-01-20 00:18:06 (北京时间)
 
-- 2008年：The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art.
-- 2012年：More than 115,000 websites engage in an online protest against the Stop Online Piracy Act and the Protect IP Act in the US.[citation needed] The websites involved viewed the laws as infringing on the right to free speech and many of them temporarily shut down in protest.
-- 2018年：A bus catches fire on the Samara-Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.
-- 2019年：An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
-- 2023年：A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
+- 2007年：Turkish-Armenian journalist Hrant Dink is assassinated in front of his newspaper's Istanbul office by 17-year-old Turkish ultra-nationalist Ogün Samast.
+- 2007年：Four-man Team N2i, using only skis and kites, completes a 1,093-mile (1,759 km) trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.
+- 2012年：The Hong Kong-based file-sharing website Megaupload is shut down by the FBI.
+- 2014年：A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
+- 2024年：The  Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
 
 ## 🛠️ 技术实现
 
