@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-20 00:18:06 (北京时间)
+> 更新时间：2025-01-21 00:20:19 (北京时间)
 
-- 2007年：Turkish-Armenian journalist Hrant Dink is assassinated in front of his newspaper's Istanbul office by 17-year-old Turkish ultra-nationalist Ogün Samast.
-- 2007年：Four-man Team N2i, using only skis and kites, completes a 1,093-mile (1,759 km) trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.
-- 2012年：The Hong Kong-based file-sharing website Megaupload is shut down by the FBI.
-- 2014年：A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
-- 2024年：The  Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
+- 2009年：A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
+- 2017年：Donald Trump is inaugurated as the 45th President of the United States of America.
+- 2018年：A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
+- 2018年：Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
+- 2021年：Joe Biden is inaugurated as the 46th President of the United States of America. At 78, he becomes the oldest person ever inaugurated. Kamala Harris becomes the first female Vice President of the United States.
 
 ## 🛠️ 技术实现
 
