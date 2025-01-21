@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-21 00:20:19 (北京时间)
+> 更新时间：2025-01-22 00:20:45 (北京时间)
 
-- 2009年：A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
-- 2017年：Donald Trump is inaugurated as the 45th President of the United States of America.
-- 2018年：A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
-- 2018年：Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
-- 2021年：Joe Biden is inaugurated as the 46th President of the United States of America. At 78, he becomes the oldest person ever inaugurated. Kamala Harris becomes the first female Vice President of the United States.
+- 2009年：Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
+- 2011年：Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
+- 2014年：Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
+- 2017年：Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
+- 2023年：Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
 
 ## 🛠️ 技术实现
 
