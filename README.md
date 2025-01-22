@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-22 00:20:45 (北京时间)
+> 更新时间：2025-01-23 00:21:04 (北京时间)
 
-- 2009年：Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
-- 2011年：Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
-- 2014年：Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
-- 2017年：Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
-- 2023年：Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
+- 1999年：Australian missionary Graham Staines and his two sons are burned alive by radical Hindus while sleeping in their car in Eastern India.
+- 2006年：Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
+- 2007年：At least 88 people are killed when two car bombs explode in the Bab Al-Sharqi market in central Baghdad, Iraq.
+- 2009年：U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
+- 2024年：Ram Mandir inaugurated by Indian Prime Minister Narendra Modi at Ayodhya, Uttar Pradesh after 500 years of dispute.
 
 ## 🛠️ 技术实现
 
