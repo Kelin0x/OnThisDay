@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-23 00:21:04 (北京时间)
+> 更新时间：2025-01-24 00:20:41 (北京时间)
 
-- 1999年：Australian missionary Graham Staines and his two sons are burned alive by radical Hindus while sleeping in their car in Eastern India.
-- 2006年：Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
-- 2007年：At least 88 people are killed when two car bombs explode in the Bab Al-Sharqi market in central Baghdad, Iraq.
-- 2009年：U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
-- 2024年：Ram Mandir inaugurated by Indian Prime Minister Narendra Modi at Ayodhya, Uttar Pradesh after 500 years of dispute.
+- 2018年：A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.
+- 2018年：A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
+- 2018年：The China-United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines.
+- 2022年：Mutinying Burkinabè soldiers led by Paul-Henri Sandaogo Damiba depose and detain President Roch Marc Christian Kaboré amid widespread anti-government protests.
+- 2024年：Northwestern Air Flight 738 crashes after takeoff from Fort Smith Airport, killing six people.
 
 ## 🛠️ 技术实现
 
