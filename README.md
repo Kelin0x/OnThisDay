@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-24 00:20:41 (北京时间)
+> 更新时间：2025-01-25 00:20:10 (北京时间)
 
-- 2018年：A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.
-- 2018年：A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
-- 2018年：The China-United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines.
-- 2022年：Mutinying Burkinabè soldiers led by Paul-Henri Sandaogo Damiba depose and detain President Roch Marc Christian Kaboré amid widespread anti-government protests.
-- 2024年：Northwestern Air Flight 738 crashes after takeoff from Fort Smith Airport, killing six people.
+- 1990年：Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
+- 2003年：The United States Department of Homeland Security officially begins operation.
+- 2009年：Cyclone Klaus makes landfall near Bordeaux, France, causing 26 deaths as well as extensive disruptions to public transport and power supplies.
+- 2011年：At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
+- 2018年：Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
 
 ## 🛠️ 技术实现
 
