@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-25 00:20:10 (北京时间)
+> 更新时间：2025-01-26 00:19:42 (北京时间)
 
-- 1990年：Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
-- 2003年：The United States Department of Homeland Security officially begins operation.
-- 2009年：Cyclone Klaus makes landfall near Bordeaux, France, causing 26 deaths as well as extensive disruptions to public transport and power supplies.
-- 2011年：At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
-- 2018年：Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
+- 2010年：Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.
+- 2011年：The first wave of the Egyptian revolution begins throughout the country, marked by street demonstrations, rallies, acts of civil disobedience, riots, labour strikes, and violent clashes.
+- 2013年：At least 50 people are killed and 120 people are injured in a prison riot in Barquisimeto, Venezuela.
+- 2015年：A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters.
+- 2019年：A mining company's dam collapses in Brumadinho, Brazil, a south-eastern city, killing 270 people.
 
 ## 🛠️ 技术实现
 
