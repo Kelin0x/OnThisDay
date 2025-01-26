@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-26 00:19:42 (北京时间)
+> 更新时间：2025-01-27 00:18:02 (北京时间)
 
-- 2010年：Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.
-- 2011年：The first wave of the Egyptian revolution begins throughout the country, marked by street demonstrations, rallies, acts of civil disobedience, riots, labour strikes, and violent clashes.
-- 2013年：At least 50 people are killed and 120 people are injured in a prison riot in Barquisimeto, Venezuela.
-- 2015年：A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters.
-- 2019年：A mining company's dam collapses in Brumadinho, Brazil, a south-eastern city, killing 270 people.
+- 2009年：Nadya Suleman gives birth to the world's first surviving octuplets.
+- 2015年：An aircraft crashes at Los Llanos Air Base in Albacete, Spain, killing 11 people and injuring 21 others.
+- 2015年：Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî.
+- 2020年：A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant.
+- 2021年：Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
 
 ## 🛠️ 技术实现
 
