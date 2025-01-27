@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-27 00:18:02 (北京时间)
+> 更新时间：2025-01-28 00:21:19 (北京时间)
 
-- 2009年：Nadya Suleman gives birth to the world's first surviving octuplets.
-- 2015年：An aircraft crashes at Los Llanos Air Base in Albacete, Spain, killing 11 people and injuring 21 others.
-- 2015年：Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî.
-- 2020年：A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant.
-- 2021年：Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
+- 2013年：Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
+- 2014年：Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic.
+- 2017年：A naming ceremony for the chemical element tennessine takes place in the United States.
+- 2023年：Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.
+- 2023年：A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
 
 ## 🛠️ 技术实现
 
