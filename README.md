@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-28 00:21:19 (北京时间)
+> 更新时间：2025-01-29 00:20:34 (北京时间)
 
-- 2013年：Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
-- 2014年：Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic.
-- 2017年：A naming ceremony for the chemical element tennessine takes place in the United States.
-- 2023年：Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.
-- 2023年：A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
+- 1988年：In R v Morgentaler the Supreme Court of Canada strikes down all anti-abortion laws.
+- 2002年：TAME Flight 120, a Boeing 727-100, crashes in the Andes mountains in southern Colombia, killing 94.
+- 2006年：The roof of one of the buildings at the Katowice International Fair in Poland collapses due to the weight of snow, killing 65 and injuring more than 170 others.
+- 2021年：A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
+- 2023年：Protests begin after police beat and kill Tyre Nichols.
 
 ## 🛠️ 技术实现
 
