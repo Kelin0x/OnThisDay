@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-29 00:20:34 (北京时间)
+> 更新时间：2025-01-30 00:21:11 (北京时间)
 
-- 1988年：In R v Morgentaler the Supreme Court of Canada strikes down all anti-abortion laws.
-- 2002年：TAME Flight 120, a Boeing 727-100, crashes in the Andes mountains in southern Colombia, killing 94.
-- 2006年：The roof of one of the buildings at the Katowice International Fair in Poland collapses due to the weight of snow, killing 65 and injuring more than 170 others.
-- 2021年：A nitrogen leak at a poultry food processing facility in Gainesville, Georgia kills six and injures at least ten.
-- 2023年：Protests begin after police beat and kill Tyre Nichols.
+- 2009年：Governor of Illinois Rod Blagojevich is removed from office following his conviction of several corruption charges, including solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for then-U.S. president-elect Barack Obama.
+- 2013年：SCAT Airlines Flight 760 crashes near the Kazakh city of Almaty, killing 21 people.
+- 2014年：Rojava conflict: The Afrin Canton declares its autonomy from the Syrian Arab Republic.
+- 2017年：A gunman opens fire at the Islamic Cultural Centre of Quebec City, killing six and wounding 19 others in a spree shooting.
+- 2020年：COVID-19 pandemic: The Presidency of Donald Trump.
 
 ## 🛠️ 技术实现
 
