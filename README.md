@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-30 00:21:11 (北京时间)
+> 更新时间：2025-01-31 00:20:31 (北京时间)
 
-- 2009年：Governor of Illinois Rod Blagojevich is removed from office following his conviction of several corruption charges, including solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for then-U.S. president-elect Barack Obama.
-- 2013年：SCAT Airlines Flight 760 crashes near the Kazakh city of Almaty, killing 21 people.
-- 2014年：Rojava conflict: The Afrin Canton declares its autonomy from the Syrian Arab Republic.
-- 2017年：A gunman opens fire at the Islamic Cultural Centre of Quebec City, killing six and wounding 19 others in a spree shooting.
-- 2020年：COVID-19 pandemic: The Presidency of Donald Trump.
+- 2000年：Kenya Airways Flight 431 crashes into the Atlantic Ocean off the coast of Ivory Coast, killing 169.
+- 2006年：The Goleta postal facility shootings occur, killing seven people before the perpetrator took her own life.
+- 2007年：Microsoft Corporation releases Windows Vista, a major release of the operating system Microsoft Windows and the NT based kernel.
+- 2013年：Naro-1 becomes the first carrier rocket launched by South Korea.
+- 2020年：The World Health Organization declares the COVID-19 pandemic to be a Public Health Emergency of International Concern.
 
 ## 🛠️ 技术实现
 
