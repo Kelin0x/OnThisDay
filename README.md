@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-01-31 00:20:31 (北京时间)
+> 更新时间：2025-02-01 00:20:01 (北京时间)
 
-- 2000年：Kenya Airways Flight 431 crashes into the Atlantic Ocean off the coast of Ivory Coast, killing 169.
-- 2006年：The Goleta postal facility shootings occur, killing seven people before the perpetrator took her own life.
-- 2007年：Microsoft Corporation releases Windows Vista, a major release of the operating system Microsoft Windows and the NT based kernel.
-- 2013年：Naro-1 becomes the first carrier rocket launched by South Korea.
-- 2020年：The World Health Organization declares the COVID-19 pandemic to be a Public Health Emergency of International Concern.
+- 2018年：Both a blue moon and a total lunar eclipse occur.
+- 2019年：Abdullah of Pahang is sworn in as the 16th Yang di-Pertuan Agong of Malaysia.
+- 2020年：The United Kingdom's membership within the European Union ceases in accordance with Article 50, after 47 years of being a member state.
+- 2022年：Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
+- 2023年：The last Boeing 747, the first wide-body airliner, is delivered.
 
 ## 🛠️ 技术实现
 
