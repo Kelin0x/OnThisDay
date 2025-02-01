@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-01 00:20:01 (北京时间)
+> 更新时间：2025-02-02 00:18:06 (北京时间)
 
-- 2018年：Both a blue moon and a total lunar eclipse occur.
-- 2019年：Abdullah of Pahang is sworn in as the 16th Yang di-Pertuan Agong of Malaysia.
-- 2020年：The United Kingdom's membership within the European Union ceases in accordance with Article 50, after 47 years of being a member state.
-- 2022年：Sue Gray, a senior civil servant in the United Kingdom, publishes an initial version of her report on the Downing Street Partygate controversy.
-- 2023年：The last Boeing 747, the first wide-body airliner, is delivered.
+- 2009年：The first cabinet of Jóhanna Sigurðardóttir was formed in Iceland, making her the country's first female prime minister and the world's first openly gay head of government.
+- 2012年：Seventy-four people are killed and over 500 injured as a result of clashes between fans of Egyptian football teams Al Masry and Al Ahly in the city of Port Said.
+- 2013年：The Shard, the sixth-tallest building in Europe, opens its viewing gallery to the public.
+- 2021年：A coup d'état in Myanmar removes Aung San Suu Kyi from power and restores military rule.
+- 2022年：Five-year-old Moroccan boy Rayan Aourram falls into a 32-meter (105 feet) deep well in Ighran village in Tamorot commune, Chefchaouen Province, Morocco, but dies four days later, before rescue workers reached him.
 
 ## 🛠️ 技术实现
 
