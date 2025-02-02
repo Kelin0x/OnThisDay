@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-02 00:18:06 (北京时间)
+> 更新时间：2025-02-03 00:18:40 (北京时间)
 
-- 2009年：The first cabinet of Jóhanna Sigurðardóttir was formed in Iceland, making her the country's first female prime minister and the world's first openly gay head of government.
-- 2012年：Seventy-four people are killed and over 500 injured as a result of clashes between fans of Egyptian football teams Al Masry and Al Ahly in the city of Port Said.
-- 2013年：The Shard, the sixth-tallest building in Europe, opens its viewing gallery to the public.
-- 2021年：A coup d'état in Myanmar removes Aung San Suu Kyi from power and restores military rule.
-- 2022年：Five-year-old Moroccan boy Rayan Aourram falls into a 32-meter (105 feet) deep well in Ighran village in Tamorot commune, Chefchaouen Province, Morocco, but dies four days later, before rescue workers reached him.
+- 2004年：Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.
+- 2005年：The Government of Canada introduces the Civil Marriage Act. This legislation would become law on July 20, 2005, legalizing same-sex marriage.
+- 2007年：Police officer Filippo Raciti is killed when a clash breaks out in the Sicily derby between Catania and Palermo, in the Serie A, the top flight of Italian football. This event led to major changes in stadium regulations in Italy.
+- 2012年：The ferry MV Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 146-165 dead.
+- 2021年：The Burmese military establishes the State Administration Council, the military junta, after deposing the democratically elected government in the 2021 Myanmar coup d'état.
 
 ## 🛠️ 技术实现
 
