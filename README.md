@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-03 00:18:40 (北京时间)
+> 更新时间：2025-02-04 00:20:43 (北京时间)
 
-- 2004年：Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.
-- 2005年：The Government of Canada introduces the Civil Marriage Act. This legislation would become law on July 20, 2005, legalizing same-sex marriage.
-- 2007年：Police officer Filippo Raciti is killed when a clash breaks out in the Sicily derby between Catania and Palermo, in the Serie A, the top flight of Italian football. This event led to major changes in stadium regulations in Italy.
-- 2012年：The ferry MV Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 146-165 dead.
-- 2021年：The Burmese military establishes the State Administration Council, the military junta, after deposing the democratically elected government in the 2021 Myanmar coup d'état.
+- 1998年：Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
+- 2005年：One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+- 2007年：A Baghdad market bombing kills at least 135 people and injures a further 339.
+- 2014年：Two people are shot and killed and 29 students are taken hostage at a high school in Moscow, Russia.
+- 2023年：2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
 
 ## 🛠️ 技术实现
 
