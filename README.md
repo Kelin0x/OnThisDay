@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-04 00:20:43 (北京时间)
+> 更新时间：2025-02-05 00:20:54 (北京时间)
 
-- 1998年：Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
-- 2005年：One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
-- 2007年：A Baghdad market bombing kills at least 135 people and injures a further 339.
-- 2014年：Two people are shot and killed and 29 students are taken hostage at a high school in Moscow, Russia.
-- 2023年：2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
+- 2003年：The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia.
+- 2004年：Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin.
+- 2008年：Civic mobilizations in Colombia against FARC, under the name A million voices against the FARC.
+- 2015年：TransAsia Airways Flight 235, with 58 people on board, en route from the Taiwanese capital Taipei to Kinmen, crashes into the Keelung River just after takeoff, killing 43 people.
+- 2020年：The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days.
 
 ## 🛠️ 技术实现
 
