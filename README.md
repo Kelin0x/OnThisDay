@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-05 00:20:54 (北京时间)
+> 更新时间：2025-02-06 00:20:59 (北京时间)
 
-- 2003年：The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia.
-- 2004年：Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin.
-- 2008年：Civic mobilizations in Colombia against FARC, under the name A million voices against the FARC.
-- 2015年：TransAsia Airways Flight 235, with 58 people on board, en route from the Taiwanese capital Taipei to Kinmen, crashes into the Keelung River just after takeoff, killing 43 people.
-- 2020年：The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days.
+- 2008年：A major tornado outbreak across the Southern United States kills 57.
+- 2016年：New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest.
+- 2019年：Pope Francis becomes the first Pope in history to visit and perform papal mass in the Arabian Peninsula during his visit to Abu Dhabi.
+- 2020年：United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
+- 2021年：Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
 
 ## 🛠️ 技术实现
 
