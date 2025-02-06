@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-06 00:20:59 (北京时间)
+> 更新时间：2025-02-07 00:19:55 (北京时间)
 
-- 2008年：A major tornado outbreak across the Southern United States kills 57.
-- 2016年：New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest.
-- 2019年：Pope Francis becomes the first Pope in history to visit and perform papal mass in the Arabian Peninsula during his visit to Abu Dhabi.
-- 2020年：United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
-- 2021年：Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
+- 2012年：A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
+- 2016年：An earthquake of magnitude 6.6 strikes southern Taiwan, killing 117 people.
+- 2018年：SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
+- 2021年：U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries.
+- 2023年：Two earthquakes measuring .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people.
 
 ## 🛠️ 技术实现
 
