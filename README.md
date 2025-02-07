@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-07 00:19:55 (北京时间)
+> 更新时间：2025-02-08 00:20:27 (北京时间)
 
-- 2012年：A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
-- 2016年：An earthquake of magnitude 6.6 strikes southern Taiwan, killing 117 people.
-- 2018年：SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
-- 2021年：U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries.
-- 2023年：Two earthquakes measuring .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people.
+- 2013年：The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995.
+- 2014年：Scientists announce that the Happisburgh footprints in Norfolk, England, date back to more than 800,000 years ago, making them the oldest known hominid footprints outside Africa.
+- 2016年：North Korea launches Kwangmyŏngsŏng-4 into outer space violating multiple UN treaties and prompting condemnation from around the world.
+- 2021年：The 2021 Uttarakhand flood begins.
+- 2024年：Pakistan election offices hit by twin bombings, killing at least 24 people a day before general elections.
 
 ## 🛠️ 技术实现
 
