@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-08 00:20:27 (北京时间)
+> 更新时间：2025-02-09 00:18:20 (北京时间)
 
-- 2013年：The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995.
-- 2014年：Scientists announce that the Happisburgh footprints in Norfolk, England, date back to more than 800,000 years ago, making them the oldest known hominid footprints outside Africa.
-- 2016年：North Korea launches Kwangmyŏngsŏng-4 into outer space violating multiple UN treaties and prompting condemnation from around the world.
-- 2021年：The 2021 Uttarakhand flood begins.
-- 2024年：Pakistan election offices hit by twin bombings, killing at least 24 people a day before general elections.
+- 1989年：Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
+- 1993年：An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
+- 2010年：Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
+- 2013年：A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+- 2014年：A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
 
 ## 🛠️ 技术实现
 
