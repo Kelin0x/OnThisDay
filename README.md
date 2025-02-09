@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-09 00:18:20 (北京时间)
+> 更新时间：2025-02-10 00:18:09 (北京时间)
 
-- 1989年：Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
-- 1993年：An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
-- 2010年：Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
-- 2013年：A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
-- 2014年：A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
+- 2001年：The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
+- 2016年：Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
+- 2018年：Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
+- 2020年：Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
+- 2021年：Second impeachment trial of Donald Trump begins.
 
 ## 🛠️ 技术实现
 
