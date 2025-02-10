@@ -20,13 +20,13 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-10 00:18:09 (北京时间)
+> 更新时间：2025-02-11 00:21:19 (北京时间)
 
-- 2001年：The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
-- 2016年：Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
-- 2018年：Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
-- 2020年：Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
-- 2021年：Second impeachment trial of Donald Trump begins.
+- 2013年：Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
+- 2016年：South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
+- 2018年：Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
+- 2021年：The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
+- 2021年：Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
 
 ## 🛠️ 技术实现
 
