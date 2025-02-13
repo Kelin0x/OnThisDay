@@ -20,14 +20,8 @@
 - 🌐 可靠数据源实时更新
 
 ## 📖 今日历史
-> 更新时间：2025-02-11 00:21:19 (北京时间)
-
-- 2013年：Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
-- 2016年：South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
-- 2018年：Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
-- 2021年：The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
-- 2021年：Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
-
+> 更新时间：2025-02-13 22:58:03 (北京时间)
+- 暂未获取到历史数据
 ## 🛠️ 技术实现
 
 - **数据获取**: Python 爬虫自动采集
