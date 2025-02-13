@@ -1,45 +1,60 @@
-name: 更新历史上的今天
+name: 每日历史更新
 
 on:
   schedule:
-    - cron: "0 16 * * *"  # UTC 16:00 (北京时间 00:00)
-  workflow_dispatch:      # 支持手动触发
+    - cron: "0 16 * * *"  # UTC时间16:00（北京时间00:00）
+  workflow_dispatch:       # 允许手动触发
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:          
-      contents: write     
-    
+    permissions:
+      contents: write  # 必须开启写入权限
+
     steps:
-    - name: 检出代码
+    - name: 检出仓库（完整历史）
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0    
-        ref: main
-        token: ${{ secrets.PERSONAL_TOKEN }}  # 使用您的 PAT
-      
-    - name: 设置 Python
+        fetch-depth: 0  # 拉取完整提交历史
+        token: ${{ secrets.ACCESS_TOKEN }}  # 换成您的个人访问令牌(PAT)
+
+    - name: 配置Python环境
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
-        
+        python-version: "3.10"
+
     - name: 安装依赖
       run: |
         python -m pip install --upgrade pip
         pip install requests pytz
-        
-    - name: 更新 README
+
+    - name: 执行更新脚本
+      run: python update_readme.py
+      env:
+        TZ: Asia/Shanghai  # 强制设置时区
+
+    - name: 检测文件变化
+      id: check_change
       run: |
-        python update_readme.py
-      
-    - name: 提交更改
+        echo "变更状态："
+        git status -s
+        if git diff --exit-code --quiet README.md; then
+          echo "has_change=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_change=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: 提交变更
+      if: steps.check_change.outputs.has_change == 'true'
       run: |
-        git config --local user.name "${{ github.repository_owner }}"        # 使用您的 GitHub 用户名
-        git config --local user.email "${{ github.repository_owner }}@users.noreply.github.com"   # 使用您的 GitHub 邮箱
-        git stash
-        git pull origin main
-        git stash pop
+        # 配置Git身份
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+        # 提交变更
         git add README.md
-        git commit -m "📅 更新历史上的今天" || exit 0
+        git commit -m "📚 自动更新历史数据 ($(date +'%Y-%m-%d %H:%M:%S'))"
+        
+        # 强制推送避免冲突
+        git pull --rebase origin main
         git push origin main
