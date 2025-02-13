@@ -1,9 +1,6 @@
 import requests
 from datetime import datetime
-import json
-import sys
 import pytz
-from urllib.parse import quote
 
 def get_today_events(lang='zh'):
     """获取维基百科历史事件（支持中英文）"""
@@ -71,8 +68,37 @@ def update_readme():
     events = get_today_events('zh') or get_today_events('en')
     formatted = format_wiki_events(events) if events else []
     
-    # 更新文件逻辑（保持原有部分不变）...
-    # （此处可沿用原来的文件更新模块）
+    # 读取当前README.md文件内容
+    try:
+        with open('README.md', 'r', encoding='utf-8') as file:
+            readme_content = file.read()
+    except Exception as e:
+        print(f"读取README.md文件失败: {str(e)}")
+        return
+
+    # 寻找 "今日历史" 部分并替换内容
+    header = "## 📖 今日历史"
+    start_index = readme_content.find(header)
+    
+    if start_index != -1:
+        # 找到该部分的结束位置，假设是下一个标题
+        end_index = readme_content.find('## ', start_index + len(header))
+        if end_index == -1:
+            end_index = len(readme_content)  # 没有找到下一个标题，说明是最后一部分
+        
+        # 替换“今日历史”部分的内容
+        new_section = f"{header}\n> 更新时间：{update_time} (北京时间)\n" + '\n'.join(formatted) + '\n'
+        updated_readme = readme_content[:start_index] + new_section + readme_content[end_index:]
+
+        # 将修改后的内容写回文件
+        try:
+            with open('README.md', 'w', encoding='utf-8') as file:
+                file.write(updated_readme)
+            print("README.md 更新成功！")
+        except Exception as e:
+            print(f"写入README.md文件失败: {str(e)}")
+    else:
+        print("未找到'今日历史'部分，无法更新。")
 
 if __name__ == "__main__":
     update_readme()
